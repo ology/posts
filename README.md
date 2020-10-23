@@ -1,2 +1,2 @@
-# posts
-PDF files of techn.ology.net posts
+# Blog Posts
+PDF files of my http://techn.ology.net/ posts
